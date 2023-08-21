@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/checklist_app/static/css/main.be95a0fc.css",
+    "main.js": "/checklist_app/static/js/main.55e3e247.js",
+    "static/media/fa-solid-900.ttf": "/checklist_app/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/checklist_app/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/checklist_app/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/checklist_app/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/checklist_app/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/checklist_app/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/checklist_app/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/checklist_app/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/checklist_app/index.html",
+    "main.be95a0fc.css.map": "/checklist_app/static/css/main.be95a0fc.css.map",
+    "main.55e3e247.js.map": "/checklist_app/static/js/main.55e3e247.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be95a0fc.css",
+    "static/js/main.55e3e247.js"
+  ]
+}
